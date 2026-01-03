@@ -53,30 +53,76 @@ Welcome to my GitHub profile! I'm a passionate technologist with strong foundati
 
 ## 🚀 Projects
 
+## 🚀 Projects
+
 ### 🚦 Intelligent Traffic Management System (YOLOv5)
 📅 Aug 2023 – Apr 2024  
 - Developed a **YOLOv5-based vehicle detection model** achieving **92% accuracy** for real-time traffic density estimation  
-- Designed a **dynamic traffic signal control algorithm** to optimize green light duration based on congestion  
-- Built a **Python–Pygame traffic simulator** for multi-lane traffic flow and signal testing  
+- Designed a **dynamic traffic signal control algorithm** to optimize green signal timings  
+- Built a **Python–Pygame traffic simulator** for multi-lane traffic and signal behavior testing  
 - Implemented **emergency vehicle priority logic** enabling automatic signal override  
 
 ---
 
 ### 🚔 Crime Data Analysis Using Advanced ML & Explainable AI
 📅 Jul 2025 – Sep 2025  
-- Built an ML-based crime prediction system using **XGBoost, Random Forest, and Logistic Regression**  
-- Implemented **spatio-temporal feature engineering**, grid-based density mapping, and data normalization  
-- Integrated **Explainable AI (SHAP & LIME)** for global and local model interpretability  
-- Generated **crime hotspot maps, SHAP plots, and trend analytics** for data-driven decision-making  
+- Built an ML-based crime prediction system using **XGBoost, Random Forest, Logistic Regression**  
+- Implemented **spatio-temporal feature engineering** and grid-based density mapping  
+- Integrated **Explainable AI (SHAP & LIME)** for transparent and bias-aware predictions  
+- Generated **crime hotspot maps, SHAP visualizations, and trend analytics**  
 
 ---
 
 ### 😷 Real-Time Face Mask Detection System
 📅 Oct 2025 – Nov 2025  
 - Developed a **TensorFlow Lite–based real-time face mask detection system** using a custom CNN  
-- Applied **quantization-aware inference (FP16/INT8)** for fast on-device performance  
-- Integrated **OpenCV webcam pipeline** with preprocessing and live prediction overlays  
-- Deployed optimized **TFLite Interpreter** with manual tensor handling for accurate classification  
+- Applied **quantization-aware inference (FP16/INT8)** for optimized on-device performance  
+- Integrated **OpenCV webcam pipeline** with live prediction overlays  
+- Deployed **TFLite Interpreter** with manual tensor handling for efficient inference  
+
+---
+
+### 🚔 Crime Data Analysis System (Java + Spring Boot + Angular)
+- Full-stack application developed using **Java, Spring Boot, MySQL, Angular**  
+- Implemented **CRUD operations** and RESTful APIs for crime, suspect, victim, and report management  
+- Designed a normalized **relational database schema**  
+- Built interactive dashboards for data visualization and analysis  
+
+---
+
+### 💊 Pharmacy Drug Management System
+- Java-based application for managing medicine inventory, billing, and suppliers  
+- Applied **OOP principles**, database connectivity, and modular design  
+- Ensured data consistency using MySQL  
+
+---
+
+### ⚡ Electricity Bill Management System
+- Java application to calculate and manage electricity bills  
+- Implemented customer records, billing logic, and report generation  
+- Used **OOP concepts** and file/database handling  
+
+---
+
+### 🌐 Tours and Travels Website
+- Responsive website developed using **HTML, CSS, JavaScript**  
+- Implemented booking forms and inquiry management  
+- Focused on UI/UX and cross-device compatibility  
+
+---
+
+### 🔒 Linux Log Monitoring and Alert System
+- Automated **system log monitoring** using **Bash scripting**  
+- Configured **cron jobs** for scheduled execution  
+- Implemented **email alerts** for critical log events  
+
+---
+
+### 🌍 Personal Portfolio Website
+- Designed and developed a professional personal portfolio  
+- Showcases projects, skills, resume, and contact information  
+- Built with a clean, responsive UI  
+
 
 ---
 
